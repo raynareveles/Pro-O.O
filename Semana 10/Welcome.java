@@ -1,3 +1,5 @@
+/* Rayná Araújo Reveles - 0050013521 */
+
 import javax.swing.*;
 
 public class Welcome{

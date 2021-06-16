@@ -27,5 +27,3 @@ public class Aluno {
 		this.cidade = cidade;
 	}
 	
-	
-	
